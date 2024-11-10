@@ -1,0 +1,3 @@
+percision = tp/tp+fp
+acc = tp+tn/sigma
+recall = tp/tp+fn
